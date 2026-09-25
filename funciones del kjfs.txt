@@ -1,0 +1,186 @@
+WaitSema	00000054	Function	Global	User Defined	9	0
+SignalSema	00000064	Function	Global	User Defined	9	0
+CrearSemaforo	00000000	Function	Global	User Defined	10	0
+InitKfsHandleEntry	000006ec	Function	Global	User Defined	4	0
+WaitKfsSystemSema	00000734	Function	Global	User Defined	11	0
+WaitKfsPreseekSema	0000074c	Function	Global	User Defined	3	0
+SignalKfsPreseekSema	00000758	Function	Global	User Defined	2	0
+InitKfs	000025c8	Function	Global	User Defined	1	0
+GenKfsHandle	00002800	Function	Global	User Defined	1	0
+IdentificadorFuenteArchivos	00003cd4	Function	Global	User Defined	9	0
+GetThreadErrnoPtr	0000981c	Function	Global	User Defined	24	0
+memset	00009964	Function	Global	User Defined	17	0
+strcpy	00009f28	Function	Global	User Defined	10	0
+strncmp	00009fb0	Function	Global	User Defined	5	0
+KCEJ_FS_nids	00011cf0	Data Label	Global	User Defined	1	0
+KCEJ_FS_funcs	00011cfc	Data Label	Global	User Defined	0	0
+KCEJ_FS_vars	00011d00	Data Label	Global	User Defined	0	0
+var_module_info	00011bec	Data Label	Global	User Defined	2	0
+var_module_sdk_version	00012690	Data Label	Global	User Defined	1	0
+module_start	000070c8	Function	Global	User Defined	1	0
+kjfs_nids	00011d10	Data Label	Global	User Defined	1	0
+kjfs_funcs	00011e2c	Data Label	Global	User Defined	0	0
+kjfs_0x0120E8BE	00001370	Function	Global	User Defined	2	0
+kjfs_0x0573BA21	0000447c	Function	Global	User Defined	1	0
+kjfs_0x08732EE3	00000f20	Function	Global	User Defined	6	0
+kjfs_0x091CC7DB	00004708	Function	Global	User Defined	1	0
+kjfs_0x0B4EDE89	00004590	Function	Global	User Defined	5	0
+kjfs_0x0C7A5E8C	00004c3c	Function	Global	User Defined	1	0
+kjfs_0x0EA79943	00004ae8	Function	Global	User Defined	1	0
+kjfs_0x18B0F227	00004000	Function	Global	User Defined	3	0
+kjfs_0x1B969771	000049a0	Function	Global	User Defined	1	0
+kjfs_0x1ECF095D	00004038	Function	Global	User Defined	1	0
+kjfs_0x21582D1E	00004c4c	Function	Global	User Defined	1	0
+kjfs_0x2725DF14	00003834	Function	Global	User Defined	2	0
+kjfs_0x293B0AF0	00000e04	Function	Global	User Defined	3	0
+kjfs_0x2B71773D	00004250	Function	Global	User Defined	1	0
+kjfs_0x2B9B31B4	0000479c	Function	Global	User Defined	2	0
+kjfs_0x30557549	00001124	Function	Global	User Defined	1	0
+kjfs_0x3245F846	000013e4	Function	Global	User Defined	2	0
+kjfs_0x432F631B	000040f0	Function	Global	User Defined	1	0
+kjfs_0x443540C3	00004ce4	Function	Global	User Defined	1	0
+kjfs_0x447CC6C0	000045bc	Function	Global	User Defined	1	0
+kjfs_0x482E3F1A	00004fec	Function	Global	User Defined	1	0
+kjfs_0x4CB97AD1	00004bc4	Function	Global	User Defined	1	0
+kjfs_0x4E2BD5F5	000010fc	Function	Global	User Defined	1	0
+kjfs_0x50979438	000049e8	Function	Global	User Defined	2	0
+kjfs_0x52C298C5	0000111c	Function	Global	User Defined	1	0
+kjfs_0x61558B95	00003fac	Function	Global	User Defined	1	0
+kjfs_0x73DE0032	00004968	Function	Global	User Defined	2	0
+kjfs_0x74A3D7B3	000041d4	Function	Global	User Defined	1	0
+kjfs_0x78A29747	000047f8	Function	Global	User Defined	1	0
+kjfs_0x793A5E87	00004924	Function	Global	User Defined	1	0
+kjfs_0x7C0BD3C2	00004cdc	Function	Global	User Defined	1	0
+kjfs_0x813E06AD	00004914	Function	Global	User Defined	1	0
+kjfs_0x833DE7FC	00004084	Function	Global	User Defined	2	0
+kjfs_0x87AE0285	00003dbc	Function	Global	User Defined	2	0
+kjfs_0x8AF47001	00000fdc	Function	Global	User Defined	3	0
+kjfs_0x8E71A56F	00004554	Function	Global	User Defined	1	0
+kjfs_0x919A84F9	00001104	Function	Global	User Defined	2	0
+kjfs_0x93CD842D	00004bec	Function	Global	User Defined	1	0
+kjfs_0x93E9297F	00003e74	Function	Global	User Defined	1	0
+kjfs_0x9995DE66	00004a60	Function	Global	User Defined	1	0
+kjfs_0x9AAA1137	00001394	Function	Global	User Defined	4	0
+kjfs_0x9BB01FF2	00004860	Function	Global	User Defined	2	0
+kjfs_0xA12E312E	00004cec	Function	Global	User Defined	1	0
+kjfs_0xA485E39E	00001248	Function	Global	User Defined	5	0
+kjfs_0xA8728645	00000e98	Function	Global	User Defined	4	0
+kjfs_0xAF65B85A	00004484	Function	Global	User Defined	2	0
+kjfs_0xB2756FFA	00003ec4	Function	Global	User Defined	2	0
+kjfs_0xB6590F47	00000f68	Function	Global	User Defined	2	0
+kjfs_0xB82B0E1A	00004684	Function	Global	User Defined	1	0
+kjfs_0xBA628533	00001114	Function	Global	User Defined	1	0
+kjfs_0xBFF7360B	000044e8	Function	Global	User Defined	1	0
+kjfs_0xC51F367F	00004a98	Function	Global	User Defined	1	0
+kjfs_0xCC214583	00000dc8	Function	Global	User Defined	3	0
+kjfs_0xCF0188CF	000042dc	Function	Global	User Defined	1	0
+kjfs_0xD235A288	00004414	Function	Global	User Defined	2	0
+kjfs_0xD4AD7362	00004fdc	Function	Global	User Defined	2	0
+kjfs_0xD5E3EFF1	00003840	Function	Global	User Defined	2	0
+kjfs_0xDA9BB45D	0000385c	Function	Global	User Defined	1	0
+kjfs_0xDC49F429	00004160	Function	Global	User Defined	2	0
+kjfs_0xE21E743F	0000440c	Function	Global	User Defined	1	0
+kjfs_0xF6A3F12F	0000134c	Function	Global	User Defined	4	0
+kjfs_0xFCC282BB	000010f4	Function	Global	User Defined	1	0
+kjfs_0xFDC25446	0000436c	Function	Global	User Defined	2	0
+zlibdec_nids	00012100	Data Label	Global	User Defined	1	0
+inflateInit_	00011ac4	Function	Global	User Defined	3	0
+inflate	00011acc	Function	Global	User Defined	2	0
+inflateEnd	00011ad4	Function	Global	User Defined	1	0
+zlibdec_0x602A44F5	00011adc	Function	Global	User Defined	2	0
+uncompress	00011ae4	Function	Global	User Defined	1	0
+sceUmdUser_nids	000120f8	Data Label	Global	User Defined	1	0
+sceUmdWaitDriveStatCB	00011ab4	Function	Global	User Defined	3	0
+sceUmdGetDriveStat	00011abc	Function	Global	User Defined	2	0
+IoFileMgrForUser_nids	00011fc8	Data Label	Global	User Defined	2	0
+sceIoMkdir	00011854	Function	Global	User Defined	3	0
+sceIoWrite	0001185c	Function	Global	User Defined	1	0
+sceIoDevctl	00011864	Function	Global	User Defined	1	0
+sceIoRead	0001186c	Function	Global	User Defined	1	0
+sceIoLseekAsync	00011874	Function	Global	User Defined	1	0
+sceIoRename	0001187c	Function	Global	User Defined	2	0
+sceIoClose	00011884	Function	Global	User Defined	1	0
+sceIoOpenAsync	0001188c	Function	Global	User Defined	1	0
+sceIoReadAsync	00011894	Function	Global	User Defined	1	0
+sceIoGetstat	0001189c	Function	Global	User Defined	1	0
+sceIoWaitAsync	000118a4	Function	Global	User Defined	1	0
+sceIoWriteAsync	000118ac	Function	Global	User Defined	1	0
+sceIoIoctlAsync	000118b4	Function	Global	User Defined	1	0
+sceIoRemove	000118bc	Function	Global	User Defined	1	0
+sceIoCloseAsync	000118c4	Function	Global	User Defined	2	0
+sceIoOpen	000118cc	Function	Global	User Defined	1	0
+sceIoLseek	000118d4	Function	Global	User Defined	1	0
+sceIoWaitAsyncCB	000118dc	Function	Global	User Defined	3	0
+Kernel_Library_nids	00012010	Data Label	Global	User Defined	1	0
+sceKernelCpuSuspendIntr	000118e4	Function	Global	User Defined	2	0
+sceKernelCpuResumeIntr	000118ec	Function	Global	User Defined	1	0
+ModuleMgrForUser_nids	00012018	Data Label	Global	User Defined	1	0
+sceKernelUnloadModule	000118f4	Function	Global	User Defined	1	0
+sceKernelStopModule	000118fc	Function	Global	User Defined	0	0
+sceKernelGetModuleId	00011904	Function	Global	User Defined	0	0
+sceKernelStopUnloadSelfModuleWithStatus	0001190c	Function	Global	User Defined	0	0
+sceKernelLoadModuleByID	00011914	Function	Global	User Defined	1	0
+StdioForUser_nids	0001202c	Data Label	Global	User Defined	1	0
+sceKernelStdin	0001191c	Function	Global	User Defined	6	0
+sceKernelStdout	00011924	Function	Global	User Defined	5	0
+sceKernelStderr	0001192c	Function	Global	User Defined	5	0
+SysMemUserForUser_nids	00012038	Data Label	Global	User Defined	1	0
+sceKernelPrintf	00011934	Function	Global	User Defined	1	0
+sceKernelAllocPartitionMemory	0001193c	Function	Global	User Defined	1	0
+sceKernelGetBlockHeadAddr	00011944	Function	Global	User Defined	1	0
+sceKernelFreePartitionMemory	0001194c	Function	Global	User Defined	1	0
+ThreadManForUser_nids	00012048	Data Label	Global	User Defined	1	0
+sceKernelCreateFpl	00011954	Function	Global	User Defined	2	0
+sceKernelDelayThread	0001195c	Function	Global	User Defined	1	0
+sceKernelWakeupThread	00011964	Function	Global	User Defined	0	0
+sceKernelCreateSema	0001196c	Function	Global	User Defined	1	0
+sceKernelAllocateFpl	00011974	Function	Global	User Defined	1	0
+sceKernelGetSystemTime	0001197c	Function	Global	User Defined	1	0
+sceKernelTryReceiveMsgPipe	00011984	Function	Global	User Defined	1	0
+sceKernelSetEventFlag	0001198c	Function	Global	User Defined	1	0
+sceKernelDeleteFpl	00011994	Function	Global	User Defined	2	0
+sceKernelDeleteEventFlag	0001199c	Function	Global	User Defined	1	0
+sceKernelDeleteMsgPipe	000119a4	Function	Global	User Defined	1	0
+sceKernelStartThread	000119ac	Function	Global	User Defined	1	0
+sceKernelFreeFpl	000119b4	Function	Global	User Defined	1	0
+sceKernelReceiveMsgPipeCB	000119bc	Function	Global	User Defined	1	0
+sceKernelCancelWakeupThread	000119c4	Function	Global	User Defined	0	0
+sceKernelReferThreadRunStatus	000119cc	Function	Global	User Defined	1	0
+sceKernelDeleteSema	000119d4	Function	Global	User Defined	0	0
+sceKernelGetThreadId	000119dc	Function	Global	User Defined	2	0
+sceKernelPollEventFlag	000119e4	Function	Global	User Defined	1	0
+sceKernelReferMsgPipeStatus	000119ec	Function	Global	User Defined	1	0
+sceKernelSignalSema	000119f4	Function	Global	User Defined	1	0
+sceKernelWaitEventFlag	000119fc	Function	Global	User Defined	1	0
+sceKernelCreateThread	00011a04	Function	Global	User Defined	1	0
+sceKernelWaitSema	00011a0c	Function	Global	User Defined	1	0
+sceKernelCreateEventFlag	00011a14	Function	Global	User Defined	1	0
+sceKernelChangeThreadPriority	00011a1c	Function	Global	User Defined	1	0
+sceKernelReceiveMsgPipe	00011a24	Function	Global	User Defined	1	0
+sceKernelCreateMsgPipe	00011a2c	Function	Global	User Defined	1	0
+sceKernelClearEventFlag	00011a34	Function	Global	User Defined	1	0
+sceKernelSendMsgPipe	00011a3c	Function	Global	User Defined	1	0
+sceKernelTrySendMsgPipe	00011a44	Function	Global	User Defined	1	0
+sceKernelRotateThreadReadyQueue	00011a4c	Function	Global	User Defined	1	0
+sceKernelSleepThread	00011a54	Function	Global	User Defined	0	0
+sceKernelDeleteThread	00011a5c	Function	Global	User Defined	1	0
+sceKernelExitThread	00011a64	Function	Global	User Defined	0	0
+sceKernelSysClock2USec	00011a6c	Function	Global	User Defined	2	0
+sceKernelReferSemaStatus	00011a74	Function	Global	User Defined	0	0
+UtilsForUser_nids	000120dc	Data Label	Global	User Defined	1	0
+sceKernelLibcGettimeofday	00011a7c	Function	Global	User Defined	2	0
+sceKernelDcacheWritebackAll	00011a84	Function	Global	User Defined	3	0
+sceKernelLibcClock	00011a8c	Function	Global	User Defined	0	0
+sceKernelLibcTime	00011a94	Function	Global	User Defined	1	0
+sceKernelDcacheWritebackInvalidateRange	00011a9c	Function	Global	User Defined	17	0
+sceSuspendForUser_nids	000120f0	Data Label	Global	User Defined	1	0
+sceKernelPowerUnlock	00011aa4	Function	Global	User Defined	2	0
+sceKernelPowerLock	00011aac	Function	Global	User Defined	1	0
+g_kfsSystemSema	00013544	Data Label	Global	User Defined	3	0
+g_kfsPreseekSema	00013540	Data Label	Global	User Defined	4	0
+g_kfsInitialized	00013ea0	Data Label	Global	User Defined	2	0
+g_kfsHeapSema	00013ea8	Data Label	Global	User Defined	3	0
+g_kfsUserSema	00013ea4	Data Label	Global	User Defined	3	0
+g_kfsHandleCounter	00013f34	Data Label	Global	User Defined	3	0
+g_kfsFileSlots	00013548	Data Label	Global	User Defined	3	0
+g_defaultErrnoPtr	00012d80	Data Label	Global	User Defined	9	0

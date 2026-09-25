@@ -1,0 +1,22 @@
+# Binarios compilados / objetos
+*.o
+*.elf
+*.bin
+*.prx
+
+# Excepción: si necesitás versionar el kjfs.prx como dependencia fija, comentá la línea de arriba y descomentá esta:
+# !kjfs.prx
+
+# Logs
+emulog.txt
+*.log
+
+# Carpeta externa (gsKit) - se omite por completo
+gsKit/
+
+# Contenido de juego / ISO extraída (pesado + posible copyright)
+iso_extraido/
+ULUS10509_EBOOT.BIN
+
+# Config local de Claude Code
+.claude/settings.local.json
